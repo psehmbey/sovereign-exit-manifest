@@ -3,7 +3,7 @@
 This account is now **archived**. All projects have migrated to sovereign, decentralized infrastructure.
 
 ### New Home:
-**[AuroraGenesis GitLab Repository](https://gitlab.com/auroragenesis)**
+**[Glass Solace AI GitLab Repository](https://gitlab.com/glass-solace-ai)**
 
 ---
 
@@ -18,7 +18,7 @@ All future development will occur in federated, post-surveillance environments w
 
 For recruiters, researchers, or curious minds:
 - My systems fuse **deep learning, ontological reasoning, federated execution**, and **post-quantum architectures**.
-- Reach out via [LinkedIn] or [Email] for strategic collaboration.
+- Reach out via [LinkedIn](https://linkedin.com/in/paul-sehmbey) for strategic collaboration.
 
 *This is not abandonment. It’s transcendence.*
 
